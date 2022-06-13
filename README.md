@@ -1,6 +1,6 @@
 # Portfolio
 
-#Tools used:
+## Tools used
 Icons8
 Adobe Photoshop
 
