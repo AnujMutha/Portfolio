@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Tools used
-Icons8
+Icons8,
 Adobe Photoshop
 
 Welcome to My Portfolio Site,
