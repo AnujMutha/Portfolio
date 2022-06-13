@@ -1,5 +1,9 @@
 # Portfolio
 
+## Tools used
+Icons8,
+Adobe Photoshop
+
 Welcome to My Portfolio Site,
 Here you will find everything related to me.
 This portfolio highlights my skills, work, etc.
